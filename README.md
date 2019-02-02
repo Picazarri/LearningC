@@ -1,2 +1,2 @@
 # LearningC
-Simple codes to remember my C coding.
+Simple codes to remember my C coding skills.
